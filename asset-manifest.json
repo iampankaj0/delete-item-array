@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/delete-item-array/static/css/main.45f08a71.css",
+    "main.js": "/delete-item-array/static/js/main.2ed238dc.js",
+    "index.html": "/delete-item-array/index.html",
+    "main.45f08a71.css.map": "/delete-item-array/static/css/main.45f08a71.css.map",
+    "main.2ed238dc.js.map": "/delete-item-array/static/js/main.2ed238dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45f08a71.css",
+    "static/js/main.2ed238dc.js"
+  ]
+}
