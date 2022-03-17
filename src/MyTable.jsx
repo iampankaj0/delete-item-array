@@ -6,14 +6,18 @@ import dataDummy from './dataDummy';
 
 const MyTable = (name, email, role) => {
 
+    // For Changing ListData after delete
     const [list, setList] = useState(dataDummy)
 
+
+    // Create a Function For Deleteing The ITEM by its ID
     const deleteItem = (i) => {
         // alert(`Do You Want To Delete The Index Number: ${i}`)
         var newlist = list;
         newlist.splice(i, 1);
         setList([...newlist])
     }
+    // Create a Function For Deleteing The ITEM by its ID
 
     return (
         <>
